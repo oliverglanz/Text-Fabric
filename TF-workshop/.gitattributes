@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+TF-Workshop_006_dss_database.ipynb filter=lfs diff=lfs merge=lfs -text
